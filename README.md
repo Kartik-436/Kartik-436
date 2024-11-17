@@ -1,4 +1,4 @@
-[![PortFolioBanner](./2.png)](https://kartik-garg.netlify.app/)
+[![PortFolioBanner](./1.png)](https://kartik-garg.netlify.app/)
 
 <h1 align="left">Hi 👋! My name is Kartik Garg, A Front-End Developer, from Delhi</h1>
 
