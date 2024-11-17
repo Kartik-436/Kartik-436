@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is **Kartik Garg**, A Front-End Developer, from Delhi</h1>
+<h1 align="left">Hi 👋! My name is Kartik Garg, A Front-End Developer, from Delhi</h1>
 
 ###
 
